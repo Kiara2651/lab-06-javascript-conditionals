@@ -2,8 +2,8 @@
 <html>
 <body>
 <script>
-// oops... there's an error here
-console.log("HELLO WORLD!"
+console.log("This is lab 06")
+console.log("It's about JavaScript conditionals.")
 </script>
 </body>
 </html>
